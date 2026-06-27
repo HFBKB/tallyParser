@@ -1,0 +1,3576 @@
+{
+    "page": 1,
+    "limit": 1,
+    "hasMore": false,
+    "totalNumberOfSubmissionsPerFilter": {
+        "all": 1,
+        "completed": 1,
+        "partial": 0
+    },
+    "questions": [
+        {
+            "id": "rVkM5l",
+            "type": "DROPDOWN",
+            "title": "Debug",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T08:52:59.000Z",
+            "updatedAt": "2026-06-26T08:52:59.000Z",
+            "fields": [
+                {
+                    "uuid": "daf2c067-5a05-44d6-b3b5-9653610f2bdf",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "daf2c067-5a05-44d6-b3b5-9653610f2bdf",
+                    "title": "Debug"
+                }
+            ]
+        },
+        {
+            "id": "ZlZ91e",
+            "type": "INPUT_TEXT",
+            "title": "project|company",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-25T16:04:55.000Z",
+            "updatedAt": "2026-06-26T09:39:22.000Z",
+            "fields": [
+                {
+                    "uuid": "783f2e8a-e538-43c3-86ed-e3f291afc444",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_TEXT",
+                    "blockGroupUuid": "783f2e8a-e538-43c3-86ed-e3f291afc444",
+                    "title": "project|company"
+                }
+            ]
+        },
+        {
+            "id": "WPja1a",
+            "type": "DROPDOWN",
+            "title": "project|itc",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T08:42:03.000Z",
+            "updatedAt": "2026-06-26T09:39:22.000Z",
+            "fields": [
+                {
+                    "uuid": "df9c2a42-2c01-495d-996c-5404479264a9",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "df9c2a42-2c01-495d-996c-5404479264a9",
+                    "title": "project|itc"
+                }
+            ]
+        },
+        {
+            "id": "ELNeeo",
+            "type": "INPUT_TEXT",
+            "title": "project|customerRef",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "9653c9a9-b0ad-4810-89be-706df3e79373",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_TEXT",
+                    "blockGroupUuid": "9653c9a9-b0ad-4810-89be-706df3e79373",
+                    "title": "project|customerRef"
+                }
+            ]
+        },
+        {
+            "id": "NLRqbO",
+            "type": "INPUT_DATE",
+            "title": "project|dueDate",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-25T16:04:55.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "42f47bcd-8ebc-4ad5-a94e-600d009ceb9d",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_DATE",
+                    "blockGroupUuid": "42f47bcd-8ebc-4ad5-a94e-600d009ceb9d",
+                    "title": "project|dueDate"
+                }
+            ]
+        },
+        {
+            "id": "QdOozX",
+            "type": "DROPDOWN",
+            "title": "project|integrationType",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-25T16:04:55.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "9b6dc4b9-3bf1-45a4-8a09-b79d7a233774",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "9b6dc4b9-3bf1-45a4-8a09-b79d7a233774",
+                    "title": "project|integrationType"
+                }
+            ]
+        },
+        {
+            "id": "eLY50l",
+            "type": "DROPDOWN",
+            "title": "project|safetyType",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-25T16:04:55.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "2c1bad38-8e02-46b4-9f73-99fc04978fdc",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "2c1bad38-8e02-46b4-9f73-99fc04978fdc",
+                    "title": "project|safetyType"
+                }
+            ]
+        },
+        {
+            "id": "9OoNR5",
+            "type": "DROPDOWN",
+            "title": "configuration|type",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-25T16:04:55.000Z",
+            "updatedAt": "2026-06-26T12:42:43.000Z",
+            "fields": [
+                {
+                    "uuid": "78f5a762-a127-4450-ac9d-ef38adc80839",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "78f5a762-a127-4450-ac9d-ef38adc80839",
+                    "title": "configuration|type"
+                }
+            ]
+        },
+        {
+            "id": "rVkRRM",
+            "type": "DROPDOWN",
+            "title": "configuration|mcLocation",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T12:42:43.000Z",
+            "fields": [
+                {
+                    "uuid": "75dbf9a6-6033-42fe-be7f-ed2575a9b43b",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "75dbf9a6-6033-42fe-be7f-ed2575a9b43b",
+                    "title": "configuration|mcLocation"
+                }
+            ]
+        },
+        {
+            "id": "a0apvq",
+            "type": "INPUT_TEXT",
+            "title": "machine|nameplate|builder",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T08:42:03.000Z",
+            "updatedAt": "2026-06-26T11:38:59.000Z",
+            "fields": [
+                {
+                    "uuid": "a55dacf1-d539-421b-bc60-fd7ef1fd27ef",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_TEXT",
+                    "blockGroupUuid": "a55dacf1-d539-421b-bc60-fd7ef1fd27ef",
+                    "title": "machine|nameplate|builder"
+                }
+            ]
+        },
+        {
+            "id": "4LpVQk",
+            "type": "INPUT_TEXT",
+            "title": "machine|nameplate|serial",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T08:52:59.000Z",
+            "updatedAt": "2026-06-26T09:39:22.000Z",
+            "fields": [
+                {
+                    "uuid": "63ad327a-3910-4340-8c03-a369bc8045be",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_TEXT",
+                    "blockGroupUuid": "63ad327a-3910-4340-8c03-a369bc8045be",
+                    "title": "machine|nameplate|serial"
+                }
+            ]
+        },
+        {
+            "id": "7op7MA",
+            "type": "INPUT_NUMBER",
+            "title": "machine|nameplate|power_kVA",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T08:42:03.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "4af77a64-cd3a-447a-9337-256801b0f3f9",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "4af77a64-cd3a-447a-9337-256801b0f3f9",
+                    "title": "machine|nameplate|power_kVA"
+                }
+            ]
+        },
+        {
+            "id": "bL61vo",
+            "type": "INPUT_TEXT",
+            "title": "machine|nameplate|model",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T08:42:03.000Z",
+            "updatedAt": "2026-06-26T09:39:22.000Z",
+            "fields": [
+                {
+                    "uuid": "5732e482-3347-4ccb-a7e0-cb06ce21ca6a",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_TEXT",
+                    "blockGroupUuid": "5732e482-3347-4ccb-a7e0-cb06ce21ca6a",
+                    "title": "machine|nameplate|model"
+                }
+            ]
+        },
+        {
+            "id": "AxjMyk",
+            "type": "INPUT_NUMBER",
+            "title": "machine|nameplate|buildYear",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T08:42:03.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "fb142710-4b15-4c6e-8229-c75d5590ad15",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "fb142710-4b15-4c6e-8229-c75d5590ad15",
+                    "title": "machine|nameplate|buildYear"
+                }
+            ]
+        },
+        {
+            "id": "x2vXl9",
+            "type": "DROPDOWN",
+            "title": "machine|cnc|Builder",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T12:42:43.000Z",
+            "updatedAt": "2026-06-26T14:19:30.000Z",
+            "fields": [
+                {
+                    "uuid": "31439594-672a-4317-a189-b30f415523a4",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "31439594-672a-4317-a189-b30f415523a4",
+                    "title": "machine|cnc|Builder"
+                }
+            ]
+        },
+        {
+            "id": "RRkGVv",
+            "type": "INPUT_TEXT",
+            "title": "machine|cnc|Model",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T12:42:43.000Z",
+            "updatedAt": "2026-06-26T14:19:30.000Z",
+            "fields": [
+                {
+                    "uuid": "07aa77b2-f8c0-4cd8-8669-e1894f822856",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_TEXT",
+                    "blockGroupUuid": "07aa77b2-f8c0-4cd8-8669-e1894f822856",
+                    "title": "machine|cnc|Model"
+                }
+            ]
+        },
+        {
+            "id": "oovbk5",
+            "type": "DROPDOWN",
+            "title": "machine|photosAvailable",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T12:42:43.000Z",
+            "updatedAt": "2026-06-26T12:42:43.000Z",
+            "fields": [
+                {
+                    "uuid": "02581ab7-f392-43d7-8345-baea0af04f81",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "02581ab7-f392-43d7-8345-baea0af04f81",
+                    "title": "machine|photosAvailable"
+                }
+            ]
+        },
+        {
+            "id": "GL5xQQ",
+            "type": "FILE_UPLOAD",
+            "title": "machine|photos",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T12:42:43.000Z",
+            "updatedAt": "2026-06-26T12:42:43.000Z",
+            "fields": [
+                {
+                    "uuid": "eb7c70f5-698d-48a5-ab7d-82762538082e",
+                    "type": "INPUT_FIELD",
+                    "questionType": "FILE_UPLOAD",
+                    "blockGroupUuid": "eb7c70f5-698d-48a5-ab7d-82762538082e",
+                    "title": "machine|photos"
+                }
+            ]
+        },
+        {
+            "id": "4LpRRb",
+            "type": "INPUT_NUMBER",
+            "title": "kinematic|nbOfPhysicalAxes",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "3508d761-f881-4403-af71-3f1d8f94371f",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "3508d761-f881-4403-af71-3f1d8f94371f",
+                    "title": "kinematic|nbOfPhysicalAxes"
+                }
+            ]
+        },
+        {
+            "id": "jLkXXR",
+            "type": "INPUT_TEXT",
+            "title": "kinematic|axesNames",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "5380e6a2-285e-443e-8ff1-1aaf6fc74a90",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_TEXT",
+                    "blockGroupUuid": "5380e6a2-285e-443e-8ff1-1aaf6fc74a90",
+                    "title": "kinematic|axesNames"
+                }
+            ]
+        },
+        {
+            "id": "2LDzzp",
+            "type": "DROPDOWN",
+            "title": "kinematic|toolsAxis",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "08b1360c-0b1b-4df7-9996-57af363456f1",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "08b1360c-0b1b-4df7-9996-57af363456f1",
+                    "title": "kinematic|toolsAxis"
+                }
+            ]
+        },
+        {
+            "id": "x2lEEG",
+            "type": "INPUT_TEXT",
+            "title": "kinematic|listOfDigitalAxes",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "4e2d2f61-4da2-4151-adbf-f690863cc9f9",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_TEXT",
+                    "blockGroupUuid": "4e2d2f61-4da2-4151-adbf-f690863cc9f9",
+                    "title": "kinematic|listOfDigitalAxes"
+                }
+            ]
+        },
+        {
+            "id": "ZlZXX0",
+            "type": "INPUT_TEXT",
+            "title": "kinematic|listOfAnalogAxes",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "e011d218-6ac1-4e57-a9cd-e2d96788855b",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_TEXT",
+                    "blockGroupUuid": "e011d218-6ac1-4e57-a9cd-e2d96788855b",
+                    "title": "kinematic|listOfAnalogAxes"
+                }
+            ]
+        },
+        {
+            "id": "NLRvvG",
+            "type": "MULTIPLE_CHOICE",
+            "title": "kinematic|hasHeadAxes",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "17ef486f-320c-4af2-a31f-64a43d20ef84",
+                    "type": "INPUT_FIELD",
+                    "questionType": "MULTIPLE_CHOICE",
+                    "blockGroupUuid": "17ef486f-320c-4af2-a31f-64a43d20ef84",
+                    "title": "kinematic|hasHeadAxes"
+                }
+            ]
+        },
+        {
+            "id": "qOkXX2",
+            "type": "MULTIPLE_CHOICE",
+            "title": "kinematic|hasTableAxes",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "1b8e481b-e274-4ecc-8104-fb987588c0c1",
+                    "type": "INPUT_FIELD",
+                    "questionType": "MULTIPLE_CHOICE",
+                    "blockGroupUuid": "1b8e481b-e274-4ecc-8104-fb987588c0c1",
+                    "title": "kinematic|hasTableAxes"
+                }
+            ]
+        },
+        {
+            "id": "QdOppg",
+            "type": "INPUT_TEXT",
+            "title": "kinematic|headAxesList",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "79ec72ae-38c7-4376-90cf-53f2b27c0933",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_TEXT",
+                    "blockGroupUuid": "79ec72ae-38c7-4376-90cf-53f2b27c0933",
+                    "title": "kinematic|headAxesList"
+                }
+            ]
+        },
+        {
+            "id": "9OoPYG",
+            "type": "INPUT_TEXT",
+            "title": "kinematic|tableAxesList",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "358c2ffe-11cb-4ec3-a08b-c93143f966e0",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_TEXT",
+                    "blockGroupUuid": "358c2ffe-11cb-4ec3-a08b-c93143f966e0",
+                    "title": "kinematic|tableAxesList"
+                }
+            ]
+        },
+        {
+            "id": "eLY8Gq",
+            "type": "MULTIPLE_CHOICE",
+            "title": "options|planeFunctionsRequired",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "57a2117b-52f4-49a1-9540-6ff8f5c924a7",
+                    "type": "INPUT_FIELD",
+                    "questionType": "MULTIPLE_CHOICE",
+                    "blockGroupUuid": "57a2117b-52f4-49a1-9540-6ff8f5c924a7",
+                    "title": "options|planeFunctionsRequired"
+                }
+            ]
+        },
+        {
+            "id": "WPjX6J",
+            "type": "MULTIPLE_CHOICE",
+            "title": "options|tcpmRequired",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "e8ad0f2c-1f47-468a-b8fa-ec168c655db6",
+                    "type": "INPUT_FIELD",
+                    "questionType": "MULTIPLE_CHOICE",
+                    "blockGroupUuid": "e8ad0f2c-1f47-468a-b8fa-ec168c655db6",
+                    "title": "options|tcpmRequired"
+                }
+            ]
+        },
+        {
+            "id": "a0aX19",
+            "type": "MULTIPLE_CHOICE",
+            "title": "kinematic|hasGantryAxes",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "21789475-4f67-4157-a34f-13d983e73f6c",
+                    "type": "INPUT_FIELD",
+                    "questionType": "MULTIPLE_CHOICE",
+                    "blockGroupUuid": "21789475-4f67-4157-a34f-13d983e73f6c",
+                    "title": "kinematic|hasGantryAxes"
+                }
+            ]
+        },
+        {
+            "id": "6RpGYe",
+            "type": "MULTIPLE_CHOICE",
+            "title": "kinematic|hasTorqueMasterSlaveAxes",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "943f1885-7da6-4321-87db-9c81894ffd96",
+                    "type": "INPUT_FIELD",
+                    "questionType": "MULTIPLE_CHOICE",
+                    "blockGroupUuid": "943f1885-7da6-4321-87db-9c81894ffd96",
+                    "title": "kinematic|hasTorqueMasterSlaveAxes"
+                }
+            ]
+        },
+        {
+            "id": "7opOYL",
+            "type": "INPUT_TEXT",
+            "title": "kinematic|gantryAxesList",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "94500630-9334-4cbd-a5f8-cbdae66fc567",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_TEXT",
+                    "blockGroupUuid": "94500630-9334-4cbd-a5f8-cbdae66fc567",
+                    "title": "kinematic|gantryAxesList"
+                }
+            ]
+        },
+        {
+            "id": "bL6XMe",
+            "type": "INPUT_TEXT",
+            "title": "kinematic|torqueMasterSlaveAxes",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T14:19:30.000Z",
+            "fields": [
+                {
+                    "uuid": "9cbac7c8-6e44-4322-8e31-9674194e68b2",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_TEXT",
+                    "blockGroupUuid": "9cbac7c8-6e44-4322-8e31-9674194e68b2",
+                    "title": "kinematic|torqueMasterSlaveAxes"
+                }
+            ]
+        },
+        {
+            "id": "0LDzYZ",
+            "type": "INPUT_NUMBER",
+            "title": "PLC|plbUnitQty",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:38:59.000Z",
+            "fields": [
+                {
+                    "uuid": "a6fc44c4-55a9-4318-b60e-59b690cb8237",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "a6fc44c4-55a9-4318-b60e-59b690cb8237",
+                    "title": "PLC|plbUnitQty"
+                }
+            ]
+        },
+        {
+            "id": "zZ14A1",
+            "type": "INPUT_NUMBER",
+            "title": "PLC|digInputsQty",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:38:59.000Z",
+            "fields": [
+                {
+                    "uuid": "3027e27f-1521-4620-aa3a-c9676b93e654",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "3027e27f-1521-4620-aa3a-c9676b93e654",
+                    "title": "PLC|digInputsQty"
+                }
+            ]
+        },
+        {
+            "id": "5LpoYM",
+            "type": "INPUT_NUMBER",
+            "title": "PLC|digOutputsQty",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:38:59.000Z",
+            "fields": [
+                {
+                    "uuid": "2c22e543-ceb6-4ff8-aab1-bf927d054962",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "2c22e543-ceb6-4ff8-aab1-bf927d054962",
+                    "title": "PLC|digOutputsQty"
+                }
+            ]
+        },
+        {
+            "id": "dlkXoz",
+            "type": "INPUT_NUMBER",
+            "title": "PLC|digInputsFsQty",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:38:59.000Z",
+            "fields": [
+                {
+                    "uuid": "332ccdb1-f951-4615-a482-126838f37103",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "332ccdb1-f951-4615-a482-126838f37103",
+                    "title": "PLC|digInputsFsQty"
+                }
+            ]
+        },
+        {
+            "id": "YrxXbq",
+            "type": "INPUT_NUMBER",
+            "title": "PLC|digOutputsFsQty",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:38:59.000Z",
+            "fields": [
+                {
+                    "uuid": "aa7c7ca4-3243-41fe-8f85-51ef28cbd42b",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "aa7c7ca4-3243-41fe-8f85-51ef28cbd42b",
+                    "title": "PLC|digOutputsFsQty"
+                }
+            ]
+        },
+        {
+            "id": "D5Z9ob",
+            "type": "INPUT_NUMBER",
+            "title": "PLC|digOutputsHsLsFsQty",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:38:59.000Z",
+            "fields": [
+                {
+                    "uuid": "7141a458-3cfd-4702-98e3-0aac4d389e30",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "7141a458-3cfd-4702-98e3-0aac4d389e30",
+                    "title": "PLC|digOutputsHsLsFsQty"
+                }
+            ]
+        },
+        {
+            "id": "lLMXj5",
+            "type": "INPUT_NUMBER",
+            "title": "PLC|anaInputs10vQty",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:38:59.000Z",
+            "fields": [
+                {
+                    "uuid": "53f3a1fe-fb4a-4c71-a7ae-c53040bc97c0",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "53f3a1fe-fb4a-4c71-a7ae-c53040bc97c0",
+                    "title": "PLC|anaInputs10vQty"
+                }
+            ]
+        },
+        {
+            "id": "RRV1Ql",
+            "type": "INPUT_NUMBER",
+            "title": "PLC|anaInputsPt100Qty",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:38:59.000Z",
+            "fields": [
+                {
+                    "uuid": "d983acf2-7f9d-4e2b-bd9b-1855e1650b49",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "d983acf2-7f9d-4e2b-bd9b-1855e1650b49",
+                    "title": "PLC|anaInputsPt100Qty"
+                }
+            ]
+        },
+        {
+            "id": "ookYZ1",
+            "type": "INPUT_NUMBER",
+            "title": "PLC|anaOutputs10vQty",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:38:59.000Z",
+            "fields": [
+                {
+                    "uuid": "0b13c389-e480-412b-87bb-46fcb28d32ec",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "0b13c389-e480-412b-87bb-46fcb28d32ec",
+                    "title": "PLC|anaOutputs10vQty"
+                }
+            ]
+        },
+        {
+            "id": "GLQaVj",
+            "type": "MULTIPLE_CHOICE",
+            "title": "PLC|fieldBusModuleType",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "2f3c8703-9a5b-459e-a0d2-36c35cfa33e2",
+                    "type": "INPUT_FIELD",
+                    "questionType": "MULTIPLE_CHOICE",
+                    "blockGroupUuid": "2f3c8703-9a5b-459e-a0d2-36c35cfa33e2",
+                    "title": "PLC|fieldBusModuleType"
+                }
+            ]
+        },
+        {
+            "id": "a0v9AB",
+            "type": "DROPDOWN",
+            "title": "configuration|hasOverrideControler",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T13:25:48.000Z",
+            "updatedAt": "2026-06-26T13:25:48.000Z",
+            "fields": [
+                {
+                    "uuid": "033a76b2-543d-401c-b2e9-c69f04989cac",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "033a76b2-543d-401c-b2e9-c69f04989cac",
+                    "title": "configuration|hasOverrideControler"
+                }
+            ]
+        },
+        {
+            "id": "AxjNYB",
+            "type": "MULTIPLE_CHOICE",
+            "title": "accessories|overrideControler",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "f50269d4-1164-4898-b56f-a4b9e0106a35",
+                    "type": "INPUT_FIELD",
+                    "questionType": "MULTIPLE_CHOICE",
+                    "blockGroupUuid": "f50269d4-1164-4898-b56f-a4b9e0106a35",
+                    "title": "accessories|overrideControler"
+                }
+            ]
+        },
+        {
+            "id": "BZ2qY7",
+            "type": "INPUT_NUMBER",
+            "title": "accessories|overrideControlerQty",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:49:14.000Z",
+            "fields": [
+                {
+                    "uuid": "c01bb5c6-7fab-4bb5-95ea-78f52cda0989",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "c01bb5c6-7fab-4bb5-95ea-78f52cda0989",
+                    "title": "accessories|overrideControlerQty"
+                }
+            ]
+        },
+        {
+            "id": "6RMLWk",
+            "type": "DROPDOWN",
+            "title": "configuration|hasHandwheel",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T13:25:48.000Z",
+            "updatedAt": "2026-06-26T13:25:48.000Z",
+            "fields": [
+                {
+                    "uuid": "694d478a-7008-4aa9-a05f-7cda877f2e82",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "694d478a-7008-4aa9-a05f-7cda877f2e82",
+                    "title": "configuration|hasHandwheel"
+                }
+            ]
+        },
+        {
+            "id": "k5kX46",
+            "type": "DROPDOWN",
+            "title": "accessories|handwheel",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "3b982618-0146-408a-af09-0c2fbfcf1d78",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "3b982618-0146-408a-af09-0c2fbfcf1d78",
+                    "title": "accessories|handwheel"
+                }
+            ]
+        },
+        {
+            "id": "v4dVaA",
+            "type": "INPUT_NUMBER",
+            "title": "accessories|handwheel|qty",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "2b6c1b33-3d60-43e1-beb0-31800f8cfa02",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "2b6c1b33-3d60-43e1-beb0-31800f8cfa02",
+                    "title": "accessories|handwheel|qty"
+                }
+            ]
+        },
+        {
+            "id": "PlGVVQ",
+            "type": "DROPDOWN",
+            "title": "accessories|handwheel|cable|Type",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T11:28:27.000Z",
+            "updatedAt": "2026-06-26T14:19:30.000Z",
+            "fields": [
+                {
+                    "uuid": "a97d8140-b3f1-4dd2-9a1f-3df36fa8f94f",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "a97d8140-b3f1-4dd2-9a1f-3df36fa8f94f",
+                    "title": "accessories|handwheel|cable|Type"
+                }
+            ]
+        },
+        {
+            "id": "ELNyyo",
+            "type": "INPUT_NUMBER",
+            "title": "accessories|handwheel|cable|mcToConsoleLength",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T11:28:27.000Z",
+            "updatedAt": "2026-06-26T14:19:30.000Z",
+            "fields": [
+                {
+                    "uuid": "d4e2dff3-8c48-4d14-ab7c-ef730ea824b6",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "d4e2dff3-8c48-4d14-ab7c-ef730ea824b6",
+                    "title": "accessories|handwheel|cable|mcToConsoleLength"
+                }
+            ]
+        },
+        {
+            "id": "rVkzzM",
+            "type": "INPUT_NUMBER",
+            "title": "accessories|handwheel|cable|consoleToHandwheelLength",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-26T11:28:27.000Z",
+            "updatedAt": "2026-06-26T14:19:30.000Z",
+            "fields": [
+                {
+                    "uuid": "c322fa63-9591-4d35-a0bb-2504d9e07e52",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "c322fa63-9591-4d35-a0bb-2504d9e07e52",
+                    "title": "accessories|handwheel|cable|consoleToHandwheelLength"
+                }
+            ]
+        },
+        {
+            "id": "LX6BjG",
+            "type": "MULTIPLE_CHOICE",
+            "title": "configuration|hasWpTouchProbe",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T13:25:48.000Z",
+            "fields": [
+                {
+                    "uuid": "3e05b27a-78aa-4787-8bee-2a108673ea50",
+                    "type": "INPUT_FIELD",
+                    "questionType": "MULTIPLE_CHOICE",
+                    "blockGroupUuid": "3e05b27a-78aa-4787-8bee-2a108673ea50",
+                    "title": "configuration|hasWpTouchProbe"
+                }
+            ]
+        },
+        {
+            "id": "pGkXNV",
+            "type": "MULTIPLE_CHOICE",
+            "title": "accessories|wpTouchProbe|connectionType",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "d25163b4-8dbd-482e-b6b7-ddf00761ba1f",
+                    "type": "INPUT_FIELD",
+                    "questionType": "MULTIPLE_CHOICE",
+                    "blockGroupUuid": "d25163b4-8dbd-482e-b6b7-ddf00761ba1f",
+                    "title": "accessories|wpTouchProbe|connectionType"
+                }
+            ]
+        },
+        {
+            "id": "1MpzYM",
+            "type": "MULTIPLE_CHOICE",
+            "title": "accessories|wpTouchProbe|model",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "31817141-0c4d-4553-8a5a-46f1692d74a2",
+                    "type": "INPUT_FIELD",
+                    "questionType": "MULTIPLE_CHOICE",
+                    "blockGroupUuid": "31817141-0c4d-4553-8a5a-46f1692d74a2",
+                    "title": "accessories|wpTouchProbe|model"
+                }
+            ]
+        },
+        {
+            "id": "ML7l2Y",
+            "type": "INPUT_NUMBER",
+            "title": "accessories|wpTouchProbe|Qty",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:49:14.000Z",
+            "fields": [
+                {
+                    "uuid": "96e9533d-ed64-408f-b81d-b1d66b8145f2",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "96e9533d-ed64-408f-b81d-b1d66b8145f2",
+                    "title": "accessories|wpTouchProbe|Qty"
+                }
+            ]
+        },
+        {
+            "id": "qOvLyO",
+            "type": "MULTIPLE_CHOICE",
+            "title": "configuration|hasToolTouchProbe",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T13:34:42.000Z",
+            "updatedAt": "2026-06-26T13:34:42.000Z",
+            "fields": [
+                {
+                    "uuid": "cbf29a15-ada2-4db6-bcb5-dac49b11af50",
+                    "type": "INPUT_FIELD",
+                    "questionType": "MULTIPLE_CHOICE",
+                    "blockGroupUuid": "cbf29a15-ada2-4db6-bcb5-dac49b11af50",
+                    "title": "configuration|hasToolTouchProbe"
+                }
+            ]
+        },
+        {
+            "id": "gLkXVN",
+            "type": "MULTIPLE_CHOICE",
+            "title": "accessories|toolTouchProbe",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T12:42:43.000Z",
+            "fields": [
+                {
+                    "uuid": "2703dde2-b911-43cf-9717-e248837c111f",
+                    "type": "INPUT_FIELD",
+                    "questionType": "MULTIPLE_CHOICE",
+                    "blockGroupUuid": "2703dde2-b911-43cf-9717-e248837c111f",
+                    "title": "accessories|toolTouchProbe"
+                }
+            ]
+        },
+        {
+            "id": "7oMqaZ",
+            "type": "DROPDOWN",
+            "title": "configuration|hasIpcOrItc",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T13:25:48.000Z",
+            "updatedAt": "2026-06-26T13:25:48.000Z",
+            "fields": [
+                {
+                    "uuid": "3ab94bf4-0886-4a31-9b18-d76560ca6897",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "3ab94bf4-0886-4a31-9b18-d76560ca6897",
+                    "title": "configuration|hasIpcOrItc"
+                }
+            ]
+        },
+        {
+            "id": "XE2d7O",
+            "type": "CHECKBOXES",
+            "title": "accessories|ipcUsage",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "48772872-1952-4a4e-8c81-f622e61c3059",
+                    "type": "INPUT_FIELD",
+                    "questionType": "CHECKBOXES",
+                    "blockGroupUuid": "48772872-1952-4a4e-8c81-f622e61c3059",
+                    "title": "accessories|ipcUsage"
+                }
+            ]
+        },
+        {
+            "id": "bLvqYL",
+            "type": "DROPDOWN",
+            "title": "configuration|hasPnc",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T13:25:48.000Z",
+            "updatedAt": "2026-06-26T13:25:48.000Z",
+            "fields": [
+                {
+                    "uuid": "247eba35-0728-4f62-a402-45132635ee53",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "247eba35-0728-4f62-a402-45132635ee53",
+                    "title": "configuration|hasPnc"
+                }
+            ]
+        },
+        {
+            "id": "8GRVYA",
+            "type": "MULTIPLE_CHOICE",
+            "title": "accessories|pnc",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T11:28:27.000Z",
+            "fields": [
+                {
+                    "uuid": "20c3d79a-99a3-4486-a1b8-d50a60aab10c",
+                    "type": "INPUT_FIELD",
+                    "questionType": "MULTIPLE_CHOICE",
+                    "blockGroupUuid": "20c3d79a-99a3-4486-a1b8-d50a60aab10c",
+                    "title": "accessories|pnc"
+                }
+            ]
+        },
+        {
+            "id": "OLoKZK",
+            "type": "INPUT_TEXT",
+            "title": "axes|ax1|name",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-27T10:52:29.000Z",
+            "fields": [
+                {
+                    "uuid": "009c1a61-4c05-409f-b4fd-d820ef0d7c7c",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_TEXT",
+                    "blockGroupUuid": "009c1a61-4c05-409f-b4fd-d820ef0d7c7c",
+                    "title": "axes|ax1|name"
+                }
+            ]
+        },
+        {
+            "id": "VV4Xaa",
+            "type": "MULTIPLE_CHOICE",
+            "title": "axes|ax1|role",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-27T10:52:29.000Z",
+            "fields": [
+                {
+                    "uuid": "80c4623f-be16-434d-bfe5-1707be2128c8",
+                    "type": "INPUT_FIELD",
+                    "questionType": "MULTIPLE_CHOICE",
+                    "blockGroupUuid": "80c4623f-be16-434d-bfe5-1707be2128c8",
+                    "title": "axes|ax1|role"
+                }
+            ]
+        },
+        {
+            "id": "PlGLNQ",
+            "type": "DROPDOWN",
+            "title": "axes|ax1|controlType",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-27T10:52:29.000Z",
+            "fields": [
+                {
+                    "uuid": "391711e5-340c-44c9-8991-6050f00e4039",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "391711e5-340c-44c9-8991-6050f00e4039",
+                    "title": "axes|ax1|controlType"
+                }
+            ]
+        },
+        {
+            "id": "rVkRQM",
+            "type": "HIDDEN_FIELDS",
+            "title": null,
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T07:30:14.000Z",
+            "fields": [
+                {
+                    "uuid": "d3ee0d3f-a07b-4ecd-95f5-3ce8e6744bed",
+                    "type": "HIDDEN_FIELD",
+                    "questionType": "HIDDEN_FIELDS",
+                    "blockGroupUuid": "4d07e202-d0e3-4087-8c25-f18b7192c27c",
+                    "title": "Si analogique > on ne s'intéresse pas au moteur"
+                }
+            ]
+        },
+        {
+            "id": "4LpRYb",
+            "type": "MULTIPLE_CHOICE",
+            "title": "axes|ax1|motor|refAvailable",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-27T10:52:29.000Z",
+            "fields": [
+                {
+                    "uuid": "07056b86-0dc6-44fc-a8d2-166d86b9fe71",
+                    "type": "INPUT_FIELD",
+                    "questionType": "MULTIPLE_CHOICE",
+                    "blockGroupUuid": "07056b86-0dc6-44fc-a8d2-166d86b9fe71",
+                    "title": "axes|ax1|motor|refAvailable"
+                }
+            ]
+        },
+        {
+            "id": "jLkXrR",
+            "type": "INPUT_TEXT",
+            "title": "axes|ax1|motor|builder",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-27T10:52:29.000Z",
+            "fields": [
+                {
+                    "uuid": "94600ee3-7148-4a3b-b0a1-fbb3e1e36e77",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_TEXT",
+                    "blockGroupUuid": "94600ee3-7148-4a3b-b0a1-fbb3e1e36e77",
+                    "title": "axes|ax1|motor|builder"
+                }
+            ]
+        },
+        {
+            "id": "2LDzYp",
+            "type": "INPUT_TEXT",
+            "title": "axes|ax1|motor|reference",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-27T10:52:29.000Z",
+            "fields": [
+                {
+                    "uuid": "41d2dda7-719a-4c09-a093-cd084136c6fc",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_TEXT",
+                    "blockGroupUuid": "41d2dda7-719a-4c09-a093-cd084136c6fc",
+                    "title": "axes|ax1|motor|reference"
+                }
+            ]
+        },
+        {
+            "id": "x2lE7G",
+            "type": "FILE_UPLOAD",
+            "title": "axes|ax1|motor|datasheetUrl",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-27T10:52:29.000Z",
+            "fields": [
+                {
+                    "uuid": "1d040ef9-d891-4423-8468-774a3e37f1f7",
+                    "type": "INPUT_FIELD",
+                    "questionType": "FILE_UPLOAD",
+                    "blockGroupUuid": "1d040ef9-d891-4423-8468-774a3e37f1f7",
+                    "title": "axes|ax1|motor|datasheetUrl"
+                }
+            ]
+        },
+        {
+            "id": "ZlZXA0",
+            "type": "MULTIPLE_CHOICE",
+            "title": "axes|ax1|motor|replacementAsked",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-27T10:52:29.000Z",
+            "fields": [
+                {
+                    "uuid": "3f9a54d9-f33f-45b5-956a-98e5cf578701",
+                    "type": "INPUT_FIELD",
+                    "questionType": "MULTIPLE_CHOICE",
+                    "blockGroupUuid": "3f9a54d9-f33f-45b5-956a-98e5cf578701",
+                    "title": "axes|ax1|motor|replacementAsked"
+                }
+            ]
+        },
+        {
+            "id": "NLRvxG",
+            "type": "MULTIPLE_CHOICE",
+            "title": "axes|ax1|motor|replacementTarget",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-27T10:52:29.000Z",
+            "fields": [
+                {
+                    "uuid": "291a3081-9608-4c5d-8d39-c2804779e971",
+                    "type": "INPUT_FIELD",
+                    "questionType": "MULTIPLE_CHOICE",
+                    "blockGroupUuid": "291a3081-9608-4c5d-8d39-c2804779e971",
+                    "title": "axes|ax1|motor|replacementTarget"
+                }
+            ]
+        },
+        {
+            "id": "qOkXq2",
+            "type": "MULTIPLE_CHOICE",
+            "title": "axes|ax1|motor|useCase",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-27T10:52:29.000Z",
+            "fields": [
+                {
+                    "uuid": "ce23cb11-a4ee-4624-aabd-e2a770f2869f",
+                    "type": "INPUT_FIELD",
+                    "questionType": "MULTIPLE_CHOICE",
+                    "blockGroupUuid": "ce23cb11-a4ee-4624-aabd-e2a770f2869f",
+                    "title": "axes|ax1|motor|useCase"
+                }
+            ]
+        },
+        {
+            "id": "QdOpqg",
+            "type": "INPUT_NUMBER",
+            "title": "axes|ax1|motor|ratedTorqueNm",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-27T10:52:29.000Z",
+            "fields": [
+                {
+                    "uuid": "bfab2d30-906d-4574-b4b6-1a40db42be5d",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "bfab2d30-906d-4574-b4b6-1a40db42be5d",
+                    "title": "axes|ax1|motor|ratedTorqueNm"
+                }
+            ]
+        },
+        {
+            "id": "9OoP0G",
+            "type": "INPUT_NUMBER",
+            "title": "axes|ax1|motor|maxTorqueNm",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-27T10:52:29.000Z",
+            "fields": [
+                {
+                    "uuid": "4b2a4a17-5a32-4164-90eb-8962b8c31dc7",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "4b2a4a17-5a32-4164-90eb-8962b8c31dc7",
+                    "title": "axes|ax1|motor|maxTorqueNm"
+                }
+            ]
+        },
+        {
+            "id": "eLY8Oq",
+            "type": "INPUT_NUMBER",
+            "title": "axes|ax1|motor|ratedSpeedRpm",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-27T10:52:29.000Z",
+            "fields": [
+                {
+                    "uuid": "fb0265e8-ae9d-46d0-9ce6-ac4b8146e6e0",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "fb0265e8-ae9d-46d0-9ce6-ac4b8146e6e0",
+                    "title": "axes|ax1|motor|ratedSpeedRpm"
+                }
+            ]
+        },
+        {
+            "id": "WPjXbJ",
+            "type": "DROPDOWN",
+            "title": "axes|ax1|motor|encoder|type",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-27T10:52:29.000Z",
+            "fields": [
+                {
+                    "uuid": "f83ef7da-1582-49e6-8d13-7511c1cc8066",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "f83ef7da-1582-49e6-8d13-7511c1cc8066",
+                    "title": "axes|ax1|motor|encoder|type"
+                }
+            ]
+        },
+        {
+            "id": "a0aXJ9",
+            "type": "DROPDOWN",
+            "title": "axes|ax1|motor|withKey",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "ad05707a-5141-4d3c-8f6e-8ce24006e808",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "ad05707a-5141-4d3c-8f6e-8ce24006e808",
+                    "title": "axes|ax1|motor|withKey"
+                }
+            ]
+        },
+        {
+            "id": "6RpG0e",
+            "type": "INPUT_NUMBER",
+            "title": "axes|ax1|motor|maxSpeedRpm",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-27T10:52:29.000Z",
+            "fields": [
+                {
+                    "uuid": "2ebd0a23-fdb8-434e-ba3b-d930a828f349",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "2ebd0a23-fdb8-434e-ba3b-d930a828f349",
+                    "title": "axes|ax1|motor|maxSpeedRpm"
+                }
+            ]
+        },
+        {
+            "id": "7opO0L",
+            "type": "DROPDOWN",
+            "title": "axes|ax1|motor|encoder|turnType",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-27T10:52:29.000Z",
+            "fields": [
+                {
+                    "uuid": "5ec31ac1-120b-4261-8212-664f84178c80",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "5ec31ac1-120b-4261-8212-664f84178c80",
+                    "title": "axes|ax1|motor|encoder|turnType"
+                }
+            ]
+        },
+        {
+            "id": "rVvzlL",
+            "type": "DROPDOWN",
+            "title": "axes|ax1|motor|withBrake",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "aed99385-9c10-48a2-bbb9-ae8e87c0935e",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "aed99385-9c10-48a2-bbb9-ae8e87c0935e",
+                    "title": "axes|ax1|motor|withBrake"
+                }
+            ]
+        },
+        {
+            "id": "bL6XRe",
+            "type": "DROPDOWN",
+            "title": "axes|ax1|motor|hasSpaceConstraints",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "7750c4c8-9401-46e8-967d-55a66c343a51",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "7750c4c8-9401-46e8-967d-55a66c343a51",
+                    "title": "axes|ax1|motor|hasSpaceConstraints"
+                }
+            ]
+        },
+        {
+            "id": "AxjNRB",
+            "type": "TEXTAREA",
+            "title": "axes|ax1|motor|spaceConstraints|details",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-27T10:52:29.000Z",
+            "fields": [
+                {
+                    "uuid": "3e2d68c7-ed8c-46f2-9bcc-72ba7326abbb",
+                    "type": "INPUT_FIELD",
+                    "questionType": "TEXTAREA",
+                    "blockGroupUuid": "3e2d68c7-ed8c-46f2-9bcc-72ba7326abbb",
+                    "title": "axes|ax1|motor|spaceConstraints|details"
+                }
+            ]
+        },
+        {
+            "id": "6RMoqY",
+            "type": "DROPDOWN",
+            "title": "axes|ax1|hasPosEncoder",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-27T10:52:29.000Z",
+            "updatedAt": "2026-06-27T10:52:29.000Z",
+            "fields": [
+                {
+                    "uuid": "a663ede6-3679-438a-8d93-4fc4bd8922a7",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "a663ede6-3679-438a-8d93-4fc4bd8922a7",
+                    "title": "axes|ax1|hasPosEncoder"
+                }
+            ]
+        },
+        {
+            "id": "BZ2qo7",
+            "type": "HIDDEN_FIELDS",
+            "title": null,
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T07:30:14.000Z",
+            "fields": [
+                {
+                    "uuid": "38aafb47-4aef-475f-b536-98db94be1a21",
+                    "type": "HIDDEN_FIELD",
+                    "questionType": "HIDDEN_FIELDS",
+                    "blockGroupUuid": "bb4da790-8725-43c0-8a04-177028352962",
+                    "title": "CAS RETROFIT"
+                }
+            ]
+        },
+        {
+            "id": "k5kXj6",
+            "type": "DROPDOWN",
+            "title": "axes|ax1|posEndoder|builder",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "5f7862cc-b3c8-485b-96fe-61eaf111bc6b",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "5f7862cc-b3c8-485b-96fe-61eaf111bc6b",
+                    "title": "axes|ax1|posEndoder|builder"
+                }
+            ]
+        },
+        {
+            "id": "v4dV6A",
+            "type": "INPUT_TEXT",
+            "title": "axes|ax1|posEncoder|model",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-27T10:52:29.000Z",
+            "fields": [
+                {
+                    "uuid": "b18a4960-34a3-4c41-bd97-be856f7dfd5e",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_TEXT",
+                    "blockGroupUuid": "b18a4960-34a3-4c41-bd97-be856f7dfd5e",
+                    "title": "axes|ax1|posEncoder|model"
+                }
+            ]
+        },
+        {
+            "id": "KLaA2M",
+            "type": "INPUT_TEXT",
+            "title": "axes|ax1|posEncoder|reference",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-27T10:52:29.000Z",
+            "fields": [
+                {
+                    "uuid": "f91ceaae-5d0a-4ede-9fa4-a6fa141a3ce3",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_TEXT",
+                    "blockGroupUuid": "f91ceaae-5d0a-4ede-9fa4-a6fa141a3ce3",
+                    "title": "axes|ax1|posEncoder|reference"
+                }
+            ]
+        },
+        {
+            "id": "LX6BxG",
+            "type": "HIDDEN_FIELDS",
+            "title": null,
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-26T07:30:14.000Z",
+            "fields": [
+                {
+                    "uuid": "f9370bea-ff14-4f1f-84d8-bc7a175033fb",
+                    "type": "HIDDEN_FIELD",
+                    "questionType": "HIDDEN_FIELDS",
+                    "blockGroupUuid": "3ef84fc0-0a08-430f-b129-561d5869bf60",
+                    "title": "CAS MACHINE NEUVE"
+                }
+            ]
+        },
+        {
+            "id": "pGkXqV",
+            "type": "INPUT_NUMBER",
+            "title": "axes|ax1|posEncoder|measuringLength",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-27T10:52:29.000Z",
+            "fields": [
+                {
+                    "uuid": "b743708e-1c41-471b-b2ad-80cecc0d97ab",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "b743708e-1c41-471b-b2ad-80cecc0d97ab",
+                    "title": "axes|ax1|posEncoder|measuringLength"
+                }
+            ]
+        },
+        {
+            "id": "1Mpz0M",
+            "type": "DROPDOWN",
+            "title": "axes|ax1|posEncoder|signal",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "4b06d3aa-6eee-446f-8b5c-8a09c9e9f5d7",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "4b06d3aa-6eee-446f-8b5c-8a09c9e9f5d7",
+                    "title": "axes|ax1|posEncoder|signal"
+                }
+            ]
+        },
+        {
+            "id": "ML7lZY",
+            "type": "DROPDOWN",
+            "title": "Axes|ax1|posEncoder|size",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-26T07:30:14.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "d4d21133-23c9-4969-8b73-b10900d3a983",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "d4d21133-23c9-4969-8b73-b10900d3a983",
+                    "title": "Axes|ax1|posEncoder|size"
+                }
+            ]
+        },
+        {
+            "id": "4Lze2o",
+            "type": "INPUT_TEXT",
+            "title": "axes|ax2|name",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "35dee266-9161-496b-aa71-236c1306b233",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_TEXT",
+                    "blockGroupUuid": "35dee266-9161-496b-aa71-236c1306b233",
+                    "title": "axes|ax2|name"
+                }
+            ]
+        },
+        {
+            "id": "jLv1B9",
+            "type": "MULTIPLE_CHOICE",
+            "title": "axes|ax2|role",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "410261ea-19e1-4fff-b9a3-4ba65478a935",
+                    "type": "INPUT_FIELD",
+                    "questionType": "MULTIPLE_CHOICE",
+                    "blockGroupUuid": "410261ea-19e1-4fff-b9a3-4ba65478a935",
+                    "title": "axes|ax2|role"
+                }
+            ]
+        },
+        {
+            "id": "2L7Q4b",
+            "type": "DROPDOWN",
+            "title": "axes|ax2|controlType",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "3f88b6a3-05fc-4e83-af06-749b22c7a015",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "3f88b6a3-05fc-4e83-af06-749b22c7a015",
+                    "title": "axes|ax2|controlType"
+                }
+            ]
+        },
+        {
+            "id": "x2vOd9",
+            "type": "HIDDEN_FIELDS",
+            "title": null,
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "1f346b36-390b-4f79-8a66-f5ab61cd1560",
+                    "type": "HIDDEN_FIELD",
+                    "questionType": "HIDDEN_FIELDS",
+                    "blockGroupUuid": "96d9cc8e-330c-4c14-a8a3-3d9c39f4c948",
+                    "title": "Si analogique > on ne s'intéresse pas au moteur"
+                }
+            ]
+        },
+        {
+            "id": "ZlDqdv",
+            "type": "MULTIPLE_CHOICE",
+            "title": "axes|ax2|motor|refAvailable",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "fe18a3b3-84e8-4677-a795-61545f070405",
+                    "type": "INPUT_FIELD",
+                    "questionType": "MULTIPLE_CHOICE",
+                    "blockGroupUuid": "fe18a3b3-84e8-4677-a795-61545f070405",
+                    "title": "axes|ax2|motor|refAvailable"
+                }
+            ]
+        },
+        {
+            "id": "NLdGAb",
+            "type": "INPUT_TEXT",
+            "title": "axes|ax2|motor|builder",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "2110a43e-7ddf-43c7-9f1e-9936e701869d",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_TEXT",
+                    "blockGroupUuid": "2110a43e-7ddf-43c7-9f1e-9936e701869d",
+                    "title": "axes|ax2|motor|builder"
+                }
+            ]
+        },
+        {
+            "id": "qOv0bk",
+            "type": "INPUT_TEXT",
+            "title": "axes|ax2|motor|reference",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "cf65cafc-ff1a-4209-b7ce-c41fcae763ea",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_TEXT",
+                    "blockGroupUuid": "cf65cafc-ff1a-4209-b7ce-c41fcae763ea",
+                    "title": "axes|ax2|motor|reference"
+                }
+            ]
+        },
+        {
+            "id": "QdkPAk",
+            "type": "FILE_UPLOAD",
+            "title": "axes|ax2|motor|datasheetUrl",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "2cbeb427-b3a6-4f15-aa83-9ce8e510935d",
+                    "type": "INPUT_FIELD",
+                    "questionType": "FILE_UPLOAD",
+                    "blockGroupUuid": "2cbeb427-b3a6-4f15-aa83-9ce8e510935d",
+                    "title": "axes|ax2|motor|datasheetUrl"
+                }
+            ]
+        },
+        {
+            "id": "9OMbd4",
+            "type": "MULTIPLE_CHOICE",
+            "title": "axes|ax2|motor|replacementAsked",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "30681718-e9db-44f0-bd38-fa102f7a771b",
+                    "type": "INPUT_FIELD",
+                    "questionType": "MULTIPLE_CHOICE",
+                    "blockGroupUuid": "30681718-e9db-44f0-bd38-fa102f7a771b",
+                    "title": "axes|ax2|motor|replacementAsked"
+                }
+            ]
+        },
+        {
+            "id": "eLvkBo",
+            "type": "MULTIPLE_CHOICE",
+            "title": "axes|ax2|motor|replacementTarget",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "fded67f2-ea0a-4b36-a430-a7561c47a742",
+                    "type": "INPUT_FIELD",
+                    "questionType": "MULTIPLE_CHOICE",
+                    "blockGroupUuid": "fded67f2-ea0a-4b36-a430-a7561c47a742",
+                    "title": "axes|ax2|motor|replacementTarget"
+                }
+            ]
+        },
+        {
+            "id": "WP1xAQ",
+            "type": "MULTIPLE_CHOICE",
+            "title": "axes|ax2|motor|useCase",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "ee6903dc-45d4-4035-b9d2-8b9062ea962b",
+                    "type": "INPUT_FIELD",
+                    "questionType": "MULTIPLE_CHOICE",
+                    "blockGroupUuid": "ee6903dc-45d4-4035-b9d2-8b9062ea962b",
+                    "title": "axes|ax2|motor|useCase"
+                }
+            ]
+        },
+        {
+            "id": "a0v7By",
+            "type": "INPUT_NUMBER",
+            "title": "axes|ax2|motor|ratedTorqueNm",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "e168355c-4985-4e0c-b847-98abdde05cfc",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "e168355c-4985-4e0c-b847-98abdde05cfc",
+                    "title": "axes|ax2|motor|ratedTorqueNm"
+                }
+            ]
+        },
+        {
+            "id": "6RMad5",
+            "type": "INPUT_NUMBER",
+            "title": "axes|ax2|motor|maxTorqueNm",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "cef3d319-c6cd-4cd3-bad1-e471c8c1d7af",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "cef3d319-c6cd-4cd3-bad1-e471c8c1d7af",
+                    "title": "axes|ax2|motor|maxTorqueNm"
+                }
+            ]
+        },
+        {
+            "id": "7oM6dz",
+            "type": "INPUT_NUMBER",
+            "title": "axes|ax2|motor|ratedSpeedRpm",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "20fe5247-5d48-4c7d-8b1a-b5737f4737df",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "20fe5247-5d48-4c7d-8b1a-b5737f4737df",
+                    "title": "axes|ax2|motor|ratedSpeedRpm"
+                }
+            ]
+        },
+        {
+            "id": "bLvblE",
+            "type": "DROPDOWN",
+            "title": "axes|ax2|motor|encoder|type",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "a416904a-4d86-418e-9506-7495b96ce433",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "a416904a-4d86-418e-9506-7495b96ce433",
+                    "title": "axes|ax2|motor|encoder|type"
+                }
+            ]
+        },
+        {
+            "id": "Axy1lN",
+            "type": "DROPDOWN",
+            "title": "axes|ax2|motor|withKey",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "6ccb21ac-fd8a-4916-8fed-dfa42ab08389",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "6ccb21ac-fd8a-4916-8fed-dfa42ab08389",
+                    "title": "axes|ax2|motor|withKey"
+                }
+            ]
+        },
+        {
+            "id": "BZ0MGY",
+            "type": "INPUT_NUMBER",
+            "title": "axes|ax2|motor|maxSpeedRpm",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "a9617dcb-06f7-4b12-96f8-5915830fcaac",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "a9617dcb-06f7-4b12-96f8-5915830fcaac",
+                    "title": "axes|ax2|motor|maxSpeedRpm"
+                }
+            ]
+        },
+        {
+            "id": "k5vMYj",
+            "type": "DROPDOWN",
+            "title": "axes|ax2|motor|encoder|turnType",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "ab0484e6-62ca-4528-988d-a37fd0495050",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "ab0484e6-62ca-4528-988d-a37fd0495050",
+                    "title": "axes|ax2|motor|encoder|turnType"
+                }
+            ]
+        },
+        {
+            "id": "v4KoN8",
+            "type": "DROPDOWN",
+            "title": "axes|ax2|motor|withBrake",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "6491dc2c-8c69-4761-a702-a98f0d85b915",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "6491dc2c-8c69-4761-a702-a98f0d85b915",
+                    "title": "axes|ax2|motor|withBrake"
+                }
+            ]
+        },
+        {
+            "id": "KLkdMK",
+            "type": "DROPDOWN",
+            "title": "axes|ax2|motor|hasSpaceConstraints",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "44356e7f-eecb-4775-827a-476276d441bf",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "44356e7f-eecb-4775-827a-476276d441bf",
+                    "title": "axes|ax2|motor|hasSpaceConstraints"
+                }
+            ]
+        },
+        {
+            "id": "LXkRd2",
+            "type": "TEXTAREA",
+            "title": "axes|ax2|motor|spaceConstraints|details",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "097e3d26-27c2-4d86-9e08-c50eb300d7ea",
+                    "type": "INPUT_FIELD",
+                    "questionType": "TEXTAREA",
+                    "blockGroupUuid": "097e3d26-27c2-4d86-9e08-c50eb300d7ea",
+                    "title": "axes|ax2|motor|spaceConstraints|details"
+                }
+            ]
+        },
+        {
+            "id": "pGv8LE",
+            "type": "DROPDOWN",
+            "title": "axes|ax2|hasPosEncoder",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "7d2dcb6d-65b0-4944-8d0c-29d50080fdef",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "7d2dcb6d-65b0-4944-8d0c-29d50080fdef",
+                    "title": "axes|ax2|hasPosEncoder"
+                }
+            ]
+        },
+        {
+            "id": "1M6qrL",
+            "type": "HIDDEN_FIELDS",
+            "title": null,
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "73b8436d-3b82-4fdb-9e1c-5141446b7b01",
+                    "type": "HIDDEN_FIELD",
+                    "questionType": "HIDDEN_FIELDS",
+                    "blockGroupUuid": "9e951d15-a81c-4514-b9d2-74ec0201e5e2",
+                    "title": "CAS RETROFIT"
+                }
+            ]
+        },
+        {
+            "id": "MLMoA0",
+            "type": "DROPDOWN",
+            "title": "axes|ax2|posEndoder|builder",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "47f8adc7-2687-4f40-8ee4-209a95477363",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "47f8adc7-2687-4f40-8ee4-209a95477363",
+                    "title": "axes|ax2|posEndoder|builder"
+                }
+            ]
+        },
+        {
+            "id": "JLM527",
+            "type": "INPUT_TEXT",
+            "title": "axes|ax2|posEncoder|model",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "3f1dcfb9-2314-4ec7-93da-54979d059f78",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_TEXT",
+                    "blockGroupUuid": "3f1dcfb9-2314-4ec7-93da-54979d059f78",
+                    "title": "axes|ax2|posEncoder|model"
+                }
+            ]
+        },
+        {
+            "id": "gLvK5K",
+            "type": "INPUT_TEXT",
+            "title": "axes|ax2|posEncoder|reference",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 1,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "7ccfa57f-84c3-4625-b4e4-f3e6878c4c89",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_TEXT",
+                    "blockGroupUuid": "7ccfa57f-84c3-4625-b4e4-f3e6878c4c89",
+                    "title": "axes|ax2|posEncoder|reference"
+                }
+            ]
+        },
+        {
+            "id": "yxzVlW",
+            "type": "HIDDEN_FIELDS",
+            "title": null,
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "39a69ab4-cfea-4f79-9dae-03eff9413d9e",
+                    "type": "HIDDEN_FIELD",
+                    "questionType": "HIDDEN_FIELDS",
+                    "blockGroupUuid": "b654bc5c-7460-449b-856c-1e755d8e0b70",
+                    "title": "CAS MACHINE NEUVE"
+                }
+            ]
+        },
+        {
+            "id": "XEzZeV",
+            "type": "INPUT_NUMBER",
+            "title": "axes|ax2|posEncoder|measuringLength",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "5fb28f96-53af-4cca-beeb-458677daa99e",
+                    "type": "INPUT_FIELD",
+                    "questionType": "INPUT_NUMBER",
+                    "blockGroupUuid": "5fb28f96-53af-4cca-beeb-458677daa99e",
+                    "title": "axes|ax2|posEncoder|measuringLength"
+                }
+            ]
+        },
+        {
+            "id": "8GM7ko",
+            "type": "DROPDOWN",
+            "title": "axes|ax2|posEncoder|signal",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "8346512e-172f-4dcd-8b1d-0f0fc48c2046",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "8346512e-172f-4dcd-8b1d-0f0fc48c2046",
+                    "title": "axes|ax2|posEncoder|signal"
+                }
+            ]
+        },
+        {
+            "id": "0LaNMQ",
+            "type": "DROPDOWN",
+            "title": "Axes|ax2|posEncoder|size",
+            "isTitleModifiedByUser": false,
+            "formId": "44qXvd",
+            "isDeleted": false,
+            "numberOfResponses": 0,
+            "createdAt": "2026-06-27T11:08:32.000Z",
+            "updatedAt": "2026-06-27T11:08:32.000Z",
+            "fields": [
+                {
+                    "uuid": "f4912f4b-80e6-4590-833a-cae5dc342636",
+                    "type": "INPUT_FIELD",
+                    "questionType": "DROPDOWN",
+                    "blockGroupUuid": "f4912f4b-80e6-4590-833a-cae5dc342636",
+                    "title": "Axes|ax2|posEncoder|size"
+                }
+            ]
+        }
+    ],
+    "submissions": [
+        {
+            "id": "aOE6rXE",
+            "formId": "44qXvd",
+            "respondentId": "zxdGKj0",
+            "isCompleted": true,
+            "submittedAt": "2026-06-27T12:55:09.000Z",
+            "createdAt": "2026-06-27T12:55:09.000Z",
+            "updatedAt": "2026-06-27T12:55:09.000Z",
+            "previewUrl": "https://tally.so/forms/44qXvd/submissions/aOE6rXE/preview?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWJtaXNzaW9uSWQiOiJhT0U2clhFIiwiZm9ybUlkIjoiNDRxWHZkIiwiaWF0IjoxNzgyNTY2MTQwfQ.o3GB9cy4TY3tAT6fv77ZfPmNjKUnzTaV1jxA_CgatHU&signature=de237bcc3127167a436109108d3c2d0cd0626a4008c363514408074c232dd39e",
+            "pdfUrl": "https://api.tally.so/forms/44qXvd/submissions/aOE6rXE/pdf?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWJtaXNzaW9uSWQiOiJhT0U2clhFIiwiZm9ybUlkIjoiNDRxWHZkIiwiaWF0IjoxNzgyNTY2MTQwfQ.o3GB9cy4TY3tAT6fv77ZfPmNjKUnzTaV1jxA_CgatHU&signature=de237bcc3127167a436109108d3c2d0cd0626a4008c363514408074c232dd39e",
+            "responses": [
+                {
+                    "id": "dvrXEjK",
+                    "formId": "44qXvd",
+                    "questionId": "rVkM5l",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "non"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "Yk8XPYJ",
+                    "formId": "44qXvd",
+                    "questionId": "ZlZ91e",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": "ARAXE",
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "DMQ9BDZ",
+                    "formId": "44qXvd",
+                    "questionId": "WPja1a",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Caron François"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "lvQXBWv",
+                    "formId": "44qXvd",
+                    "questionId": "ELNeeo",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": "ARX2525-54",
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "Rkp1xYj",
+                    "formId": "44qXvd",
+                    "questionId": "NLRqbO",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": "2026-07-26",
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "ovWYEdx",
+                    "formId": "44qXvd",
+                    "questionId": "QdOozX",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Rétrofit machine"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "G5Wa6Dk",
+                    "formId": "44qXvd",
+                    "questionId": "eLY50l",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Functionnal Safety"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "OkvKaYg",
+                    "formId": "44qXvd",
+                    "questionId": "9OoNR5",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Combiné Fraisage/Tournage"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "VDgXGYy",
+                    "formId": "44qXvd",
+                    "questionId": "rVkRRM",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Dans l'armoire électrique"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "PkKLpYe",
+                    "formId": "44qXvd",
+                    "questionId": "a0apvq",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": "SOMAB",
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "EM9eKDr",
+                    "formId": "44qXvd",
+                    "questionId": "4LpVQk",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": "SMB964-44",
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "rv7R5LR",
+                    "formId": "44qXvd",
+                    "questionId": "7op7MA",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": 90,
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "4z5RQvY",
+                    "formId": "44qXvd",
+                    "questionId": "bL61vo",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": "GENYMAB400",
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "jvNXZW4",
+                    "formId": "44qXvd",
+                    "questionId": "AxjMyk",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": 2022,
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "270zXv9",
+                    "formId": "44qXvd",
+                    "questionId": "x2vXl9",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "HEIDENHAIN"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "xvKEry5",
+                    "formId": "44qXvd",
+                    "questionId": "RRkGVv",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": "TNC640",
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "Rkp1xY9",
+                    "formId": "44qXvd",
+                    "questionId": "oovbk5",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Oui"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "ovWYEdP",
+                    "formId": "44qXvd",
+                    "questionId": "GL5xQQ",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        {
+                            "id": "15dxpO",
+                            "name": "Capture d’écran du 2026-06-24 22-21-30.png",
+                            "url": "https://storage.tally.so/private/Capture-d-ecran-du-2026-06-24-22-21-30.png?id=15dxpO&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE1ZHhwTyIsImZvcm1JZCI6IjQ0cVh2ZCIsImlhdCI6MTc4MjU2NjE0MH0.YHfgCYY680oB2w1vAiP7RinOx5mnSIyQh_J_Ks4_cO8&signature=c22be3126195fd7f60e03d7da3796f4407ec9498715b50326a59adb703d56847",
+                            "mimeType": "image/png",
+                            "size": 13550
+                        }
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "G5Wa6DZ",
+                    "formId": "44qXvd",
+                    "questionId": "4LpRRb",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": 8,
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "OkvKaYR",
+                    "formId": "44qXvd",
+                    "questionId": "jLkXXR",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": "X, Y, Z, B, C1, C2, S1, S2",
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "VDgXGYg",
+                    "formId": "44qXvd",
+                    "questionId": "2LDzzp",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Z"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "PkKLpYV",
+                    "formId": "44qXvd",
+                    "questionId": "x2lEEG",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": "X, Y, Z, B, C1, C2, S1, S2",
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "EM9eKD4",
+                    "formId": "44qXvd",
+                    "questionId": "ZlZXX0",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": "aucun",
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "rv7R5LN",
+                    "formId": "44qXvd",
+                    "questionId": "NLRvvG",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Oui"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "4z5RQoX",
+                    "formId": "44qXvd",
+                    "questionId": "qOkXX2",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Oui"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "jvNXZ7a",
+                    "formId": "44qXvd",
+                    "questionId": "QdOppg",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": "A, C",
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "270zXJj",
+                    "formId": "44qXvd",
+                    "questionId": "9OoPYG",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": "B",
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "xvKErPr",
+                    "formId": "44qXvd",
+                    "questionId": "eLY8Gq",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Oui"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "ZD0X8zo",
+                    "formId": "44qXvd",
+                    "questionId": "WPjX6J",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Oui"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "NdkvrJl",
+                    "formId": "44qXvd",
+                    "questionId": "a0aX19",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Oui"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "qv6XLKG",
+                    "formId": "44qXvd",
+                    "questionId": "6RpGYe",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Oui"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "QkLp1J7",
+                    "formId": "44qXvd",
+                    "questionId": "7opOYL",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": "(X1;X2)",
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "9MVPBEQ",
+                    "formId": "44qXvd",
+                    "questionId": "bL6XMe",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": "(Z1;Z2)",
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "ev48M7e",
+                    "formId": "44qXvd",
+                    "questionId": "0LDzYZ",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": 2,
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "W1yX2MN",
+                    "formId": "44qXvd",
+                    "questionId": "zZ14A1",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": 89,
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "avVX9DB",
+                    "formId": "44qXvd",
+                    "questionId": "5LpoYM",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": 65,
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "6MoGLOk",
+                    "formId": "44qXvd",
+                    "questionId": "dlkXoz",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": 16,
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "7MGOqVZ",
+                    "formId": "44qXvd",
+                    "questionId": "YrxXbq",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": 8,
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "bvPXq8L",
+                    "formId": "44qXvd",
+                    "questionId": "D5Z9ob",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": 4,
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "AyZNzqD",
+                    "formId": "44qXvd",
+                    "questionId": "lLMXj5",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": 4,
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "B0NqaQQ",
+                    "formId": "44qXvd",
+                    "questionId": "ookYZ1",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": 7,
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "kvqXl7R",
+                    "formId": "44qXvd",
+                    "questionId": "RRV1Ql",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": 5,
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "vKkVMO0",
+                    "formId": "44qXvd",
+                    "questionId": "GLQaVj",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Module PROFINET IO"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "KkbAzJ8",
+                    "formId": "44qXvd",
+                    "questionId": "a0v9AB",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Oui"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "LklB9Jv",
+                    "formId": "44qXvd",
+                    "questionId": "AxjNYB",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "OC 310"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "pvaXr7J",
+                    "formId": "44qXvd",
+                    "questionId": "BZ2qY7",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": 1,
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "168zXJp",
+                    "formId": "44qXvd",
+                    "questionId": "6RMLWk",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Oui"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "MMBlXJM",
+                    "formId": "44qXvd",
+                    "questionId": "k5kX46",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "HR 510"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "JM7bqJo",
+                    "formId": "44qXvd",
+                    "questionId": "v4dVaA",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": 1,
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "gv2Xa7O",
+                    "formId": "44qXvd",
+                    "questionId": "PlGVVQ",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Câble spiralé 3m"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "yzLrMEg",
+                    "formId": "44qXvd",
+                    "questionId": "ELNyyo",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": 7,
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "XzXdLMg",
+                    "formId": "44qXvd",
+                    "questionId": "LX6BjG",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Oui"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "8MOVqP5",
+                    "formId": "44qXvd",
+                    "questionId": "pGkXNV",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Sans fil"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "0aXzdJy",
+                    "formId": "44qXvd",
+                    "questionId": "1MpzYM",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "TS 460 avec système anti collisions"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "zLl4jrR",
+                    "formId": "44qXvd",
+                    "questionId": "ML7l2Y",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": 1,
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "5MRobGo",
+                    "formId": "44qXvd",
+                    "questionId": "qOvLyO",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Oui"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "dvrXEDo",
+                    "formId": "44qXvd",
+                    "questionId": "gLkXVN",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "TT 460 - mesure L/R - sans fil"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "Yk8XPMB",
+                    "formId": "44qXvd",
+                    "questionId": "7oMqaZ",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Oui"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "DMQ9BJR",
+                    "formId": "44qXvd",
+                    "questionId": "XE2d7O",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Pour poste de commande supplémentaire"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "lvQXB7k",
+                    "formId": "44qXvd",
+                    "questionId": "bLvqYL",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Oui"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "Rkp1xJ9",
+                    "formId": "44qXvd",
+                    "questionId": "8GRVYA",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Oui"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "ovWYE7P",
+                    "formId": "44qXvd",
+                    "questionId": "OLoKZK",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": "X",
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "G5Wa6JZ",
+                    "formId": "44qXvd",
+                    "questionId": "PlGLNQ",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Digital"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "OkvKaJR",
+                    "formId": "44qXvd",
+                    "questionId": "4LpRYb",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Oui"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "VDgXGMg",
+                    "formId": "44qXvd",
+                    "questionId": "jLkXrR",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": "HEIDENHAIN",
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "PkKLpXV",
+                    "formId": "44qXvd",
+                    "questionId": "2LDzYp",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": "QSY190D",
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "EM9eKJ4",
+                    "formId": "44qXvd",
+                    "questionId": "x2lE7G",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        {
+                            "id": "QyeX9X",
+                            "name": "Capture d’écran du 2026-06-26 23-23-35.png",
+                            "url": "https://storage.tally.so/private/Capture-d-ecran-du-2026-06-26-23-23-35.png?id=QyeX9X&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlF5ZVg5WCIsImZvcm1JZCI6IjQ0cVh2ZCIsImlhdCI6MTc4MjU2NjE0MH0.FQ6jKZa1npWRJeNvXIeoCMGtJYIaRt-lg7MoCHqA-4o&signature=0ade2904bb75930ab14da6b768bc9d01adfbeffddeb5e7be4e016277863c02fd",
+                            "mimeType": "image/png",
+                            "size": 4326
+                        }
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "rv7R5dN",
+                    "formId": "44qXvd",
+                    "questionId": "ZlZXA0",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Non, je souhaite le conserver"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "4z5RQNX",
+                    "formId": "44qXvd",
+                    "questionId": "6RMoqY",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Oui"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "jvNXZ9a",
+                    "formId": "44qXvd",
+                    "questionId": "k5kXj6",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "HEIDENHAIN"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "270zXxj",
+                    "formId": "44qXvd",
+                    "questionId": "v4dV6A",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": "LC182",
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "xvKErNr",
+                    "formId": "44qXvd",
+                    "questionId": "KLaA2M",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": "à corriger, si autre",
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "ZD0X8Ro",
+                    "formId": "44qXvd",
+                    "questionId": "4Lze2o",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": "Y",
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "NdkvrBl",
+                    "formId": "44qXvd",
+                    "questionId": "2L7Q4b",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Digital"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "qv6XLEG",
+                    "formId": "44qXvd",
+                    "questionId": "ZlDqdv",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Non"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "QkLp1B7",
+                    "formId": "44qXvd",
+                    "questionId": "9OMbd4",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Oui"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "9MVPBJQ",
+                    "formId": "44qXvd",
+                    "questionId": "eLvkBo",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Remplacement par un moteur équivalent"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "ev48Mxe",
+                    "formId": "44qXvd",
+                    "questionId": "WP1xAQ",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Dynamique"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "W1yX2pN",
+                    "formId": "44qXvd",
+                    "questionId": "a0v7By",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": 4.25,
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "avVX9rB",
+                    "formId": "44qXvd",
+                    "questionId": "6RMad5",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": 7.38,
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "6MoGLQk",
+                    "formId": "44qXvd",
+                    "questionId": "7oM6dz",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": 3000,
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "7MGOq9Z",
+                    "formId": "44qXvd",
+                    "questionId": "BZ0MGY",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": 5000,
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "bvPXq4L",
+                    "formId": "44qXvd",
+                    "questionId": "bLvblE",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Absolu"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "AyZNzbD",
+                    "formId": "44qXvd",
+                    "questionId": "k5vMYj",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "multi turn"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "B0NqabQ",
+                    "formId": "44qXvd",
+                    "questionId": "Axy1lN",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Sans clavette"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "kvqXlRR",
+                    "formId": "44qXvd",
+                    "questionId": "KLkdMK",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Oui"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "vKkVMx0",
+                    "formId": "44qXvd",
+                    "questionId": "LXkRd2",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": "Longueur max : 320mm",
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "KkbAzB8",
+                    "formId": "44qXvd",
+                    "questionId": "pGv8LE",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "Oui"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "LklB9Mv",
+                    "formId": "44qXvd",
+                    "questionId": "MLMoA0",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": [
+                        "HEIDENHAIN"
+                    ],
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "pvaXrPJ",
+                    "formId": "44qXvd",
+                    "questionId": "JLM527",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": "LC482",
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                },
+                {
+                    "id": "168zX2p",
+                    "formId": "44qXvd",
+                    "questionId": "gLvK5K",
+                    "respondentId": "zxdGKj0",
+                    "submissionId": "aOE6rXE",
+                    "sessionUuid": "75142c30-0314-45de-9ea5-39691b3b9ba5",
+                    "answer": "à corriger",
+                    "createdAt": "2026-06-27T12:55:09.000Z",
+                    "updatedAt": "2026-06-27T12:55:09.000Z"
+                }
+            ]
+        }
+    ]
+}

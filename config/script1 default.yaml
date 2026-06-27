@@ -1,0 +1,6 @@
+tally:
+  api_key: "TA_CLE_API_TALLY_ICI"
+  form_id: "TON_FORM_ID_ICI"
+
+output:
+  file_path: "data/raw_submission.json"
