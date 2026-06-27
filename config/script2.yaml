@@ -1,0 +1,82 @@
+# config/script2.yaml
+# Configuration pour script2_parse_tally.py : parsing et export des soumissions Tally
+tally:
+  # Chemin vers le fichier JSON brut produit par script1
+  input_path: "data/raw_submission.json"
+
+  # Optionnel : identifiant du formulaire si tu veux l'utiliser dans les logs ou filtrer
+  form_id: "44qXvd"
+
+output:
+  # Dossier de sortie où seront écrits les JSON normalisés
+  out_dir: "data/parsed"
+
+  # Écrire un fichier agrégé contenant toutes les soumissions
+  #write_aggregated: true
+  write_aggregated: false
+
+  # Format d'écriture JSON : pretty (indenté) ou compact
+  pretty_print: true
+
+parsing:
+  # Dérouler les listes à un seul élément en scalaire (ex: ["A"] -> "A")
+  unwrap_single_item_lists: true
+
+  # Tenter de convertir les chaînes numériques en int/float
+  convert_numeric_strings: true
+
+  # Tenter de parser les dates et renvoyer des ISO strings
+  parse_dates_iso: true
+
+  # Si true, créer les clés même si la valeur est vide/null
+  keep_empty_keys: false
+
+  # Liste de formats de date supplémentaires à tester (ordre d'essai)
+  date_formats:
+    - "%Y-%m-%dT%H:%M:%S.%fZ"
+    - "%Y-%m-%dT%H:%M:%SZ"
+    - "%Y-%m-%d"
+    - "%d/%m/%Y"
+    - "%d-%m-%Y"
+
+  # Heuristiques pour détecter les objets fichier (garder tels quels)
+  file_detection_keys:
+    - "url"
+    - "name"
+    - "filename"
+
+logging:
+  # Niveau de log : DEBUG, INFO, WARNING, ERROR
+  level: "INFO"
+
+  # Chemin vers le fichier de log (vide pour logs sur stdout)
+  file: ""
+
+  # Activer l'affichage des traces d'exception complètes
+  debug_tracebacks: false
+
+cli:
+  # Permettre au script d'accepter des overrides en ligne de commande
+  allow_cli_overrides: true
+
+  # Paramètres CLI par défaut si non fournis
+  defaults:
+    config: "config/script2.yaml"
+    input: null
+    output: null
+
+advanced:
+  # Si true, tenter de convertir les dates en objets datetime lors du parsing
+  # (attention : JSON ne sérialise pas datetime nativement, utile pour usage interne)
+  return_datetime_objects: false
+
+  # Si true, tenter une conversion agressive des types (peut modifier des chaînes non numériques)
+  aggressive_type_conversion: false
+
+  # Liste de clés à forcer en tant que listes même si un seul élément est présent
+  force_list_keys:
+    - "machine|photos"
+    - "attachments"
+
+  # Comportement en cas de collision de clés (last wins | first wins | merge)
+  key_collision_strategy: "last_wins"

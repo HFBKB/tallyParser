@@ -1,0 +1,160 @@
+{
+  "submissionId": "aOE6rXE",
+  "formId": "44qXvd",
+  "respondentId": "zxdGKj0",
+  "submittedAt": "2026-06-27T12:55:09.000Z",
+  "data": {
+    "Debug": "non",
+    "project": {
+      "company": "ARAXE",
+      "itc": "Caron François",
+      "customerRef": "ARX2525-54",
+      "dueDate": "2026-07-26T00:00:00",
+      "integrationType": "Rétrofit machine",
+      "safetyType": "Functionnal Safety"
+    },
+    "configuration": {
+      "type": "Combiné Fraisage/Tournage",
+      "mcLocation": "Dans l'armoire électrique",
+      "hasOverrideControler": "Oui",
+      "hasHandwheel": "Oui",
+      "hasWpTouchProbe": "Oui",
+      "hasToolTouchProbe": "Oui",
+      "hasIpcOrItc": "Oui",
+      "hasPnc": "Oui"
+    },
+    "machine": {
+      "nameplate": {
+        "builder": "SOMAB",
+        "serial": "SMB964-44",
+        "power_kVA": 90,
+        "model": "GENYMAB400",
+        "buildYear": 2022
+      },
+      "cnc": {
+        "Builder": "HEIDENHAIN",
+        "Model": "TNC640"
+      },
+      "photosAvailable": "Oui",
+      "photos": [
+        {
+          "id": "15dxpO",
+          "name": "Capture d’écran du 2026-06-24 22-21-30.png",
+          "url": "https://storage.tally.so/private/Capture-d-ecran-du-2026-06-24-22-21-30.png?id=15dxpO&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE1ZHhwTyIsImZvcm1JZCI6IjQ0cVh2ZCIsImlhdCI6MTc4MjU2NjE0MH0.YHfgCYY680oB2w1vAiP7RinOx5mnSIyQh_J_Ks4_cO8&signature=c22be3126195fd7f60e03d7da3796f4407ec9498715b50326a59adb703d56847",
+          "mimeType": "image/png",
+          "size": 13550
+        }
+      ]
+    },
+    "kinematic": {
+      "nbOfPhysicalAxes": 8,
+      "axesNames": "X, Y, Z, B, C1, C2, S1, S2",
+      "toolsAxis": "Z",
+      "listOfDigitalAxes": "X, Y, Z, B, C1, C2, S1, S2",
+      "listOfAnalogAxes": "aucun",
+      "hasHeadAxes": "Oui",
+      "hasTableAxes": "Oui",
+      "headAxesList": "A, C",
+      "tableAxesList": "B",
+      "hasGantryAxes": "Oui",
+      "hasTorqueMasterSlaveAxes": "Oui",
+      "gantryAxesList": "(X1;X2)",
+      "torqueMasterSlaveAxes": "(Z1;Z2)"
+    },
+    "options": {
+      "planeFunctionsRequired": "Oui",
+      "tcpmRequired": "Oui"
+    },
+    "PLC": {
+      "plbUnitQty": 2,
+      "digInputsQty": 89,
+      "digOutputsQty": 65,
+      "digInputsFsQty": 16,
+      "digOutputsFsQty": 8,
+      "digOutputsHsLsFsQty": 4,
+      "anaInputs10vQty": 4,
+      "anaOutputs10vQty": 7,
+      "anaInputsPt100Qty": 5,
+      "fieldBusModuleType": "Module PROFINET IO"
+    },
+    "accessories": {
+      "overrideControler": "OC 310",
+      "overrideControlerQty": 1,
+      "handwheel": {
+        "qty": 1,
+        "cable": {
+          "Type": "Câble spiralé 3m",
+          "mcToConsoleLength": 7
+        }
+      },
+      "wpTouchProbe": {
+        "connectionType": "Sans fil",
+        "model": "TS 460 avec système anti collisions",
+        "Qty": 1
+      },
+      "toolTouchProbe": "TT 460 - mesure L/R - sans fil",
+      "ipcUsage": "Pour poste de commande supplémentaire",
+      "pnc": "Oui"
+    },
+    "axes": {
+      "ax1": {
+        "name": "X",
+        "controlType": "Digital",
+        "motor": {
+          "refAvailable": "Oui",
+          "builder": "HEIDENHAIN",
+          "reference": "QSY190D",
+          "datasheetUrl": [
+            {
+              "id": "QyeX9X",
+              "name": "Capture d’écran du 2026-06-26 23-23-35.png",
+              "url": "https://storage.tally.so/private/Capture-d-ecran-du-2026-06-26-23-23-35.png?id=QyeX9X&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlF5ZVg5WCIsImZvcm1JZCI6IjQ0cVh2ZCIsImlhdCI6MTc4MjU2NjE0MH0.FQ6jKZa1npWRJeNvXIeoCMGtJYIaRt-lg7MoCHqA-4o&signature=0ade2904bb75930ab14da6b768bc9d01adfbeffddeb5e7be4e016277863c02fd",
+              "mimeType": "image/png",
+              "size": 4326
+            }
+          ],
+          "replacementAsked": "Non, je souhaite le conserver"
+        },
+        "hasPosEncoder": "Oui",
+        "posEndoder": {
+          "builder": "HEIDENHAIN"
+        },
+        "posEncoder": {
+          "model": "LC182",
+          "reference": "à corriger, si autre"
+        }
+      },
+      "ax2": {
+        "name": "Y",
+        "controlType": "Digital",
+        "motor": {
+          "refAvailable": "Non",
+          "replacementAsked": "Oui",
+          "replacementTarget": "Remplacement par un moteur équivalent",
+          "useCase": "Dynamique",
+          "ratedTorqueNm": 4.25,
+          "maxTorqueNm": 7.38,
+          "ratedSpeedRpm": 3000,
+          "maxSpeedRpm": 5000,
+          "encoder": {
+            "type": "Absolu",
+            "turnType": "multi turn"
+          },
+          "withKey": "Sans clavette",
+          "hasSpaceConstraints": "Oui",
+          "spaceConstraints": {
+            "details": "Longueur max : 320mm"
+          }
+        },
+        "hasPosEncoder": "Oui",
+        "posEndoder": {
+          "builder": "HEIDENHAIN"
+        },
+        "posEncoder": {
+          "model": "LC482",
+          "reference": "à corriger"
+        }
+      }
+    }
+  }
+}
