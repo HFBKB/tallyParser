@@ -80,3 +80,19 @@ advanced:
 
   # Comportement en cas de collision de clés (last wins | first wins | merge)
   key_collision_strategy: "last_wins"
+
+
+downloads:
+  enabled: true
+  dir: "data/downloads"            # répertoire où stocker les fichiers téléchargés
+  allowed_mimetypes:
+    - "image/png"
+    - "image/jpeg"
+    - "application/pdf"
+  max_size_bytes: 52428800         # 50 MB par fichier (0 pour illimité)
+  timeout_seconds: 30
+  keep_original_url: true
+  file_detection_keys:
+    - "url"
+    - "name"
+    - "filename"

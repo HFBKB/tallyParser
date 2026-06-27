@@ -42,7 +42,10 @@
           "name": "Capture d’écran du 2026-06-24 22-21-30.png",
           "url": "https://storage.tally.so/private/Capture-d-ecran-du-2026-06-24-22-21-30.png?id=15dxpO&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE1ZHhwTyIsImZvcm1JZCI6IjQ0cVh2ZCIsImlhdCI6MTc4MjU2NjE0MH0.YHfgCYY680oB2w1vAiP7RinOx5mnSIyQh_J_Ks4_cO8&signature=c22be3126195fd7f60e03d7da3796f4407ec9498715b50326a59adb703d56847",
           "mimeType": "image/png",
-          "size": 13550
+          "size": 13550,
+          "localPath": "data/downloads/Capture-d-ecran-du-2026-06-24-22-21-30.png",
+          "localFilename": "Capture-d-ecran-du-2026-06-24-22-21-30.png",
+          "downloaded": true
         }
       ]
     },
@@ -110,7 +113,10 @@
               "name": "Capture d’écran du 2026-06-26 23-23-35.png",
               "url": "https://storage.tally.so/private/Capture-d-ecran-du-2026-06-26-23-23-35.png?id=QyeX9X&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlF5ZVg5WCIsImZvcm1JZCI6IjQ0cVh2ZCIsImlhdCI6MTc4MjU2NjE0MH0.FQ6jKZa1npWRJeNvXIeoCMGtJYIaRt-lg7MoCHqA-4o&signature=0ade2904bb75930ab14da6b768bc9d01adfbeffddeb5e7be4e016277863c02fd",
               "mimeType": "image/png",
-              "size": 4326
+              "size": 4326,
+              "localPath": "data/downloads/Capture-d-ecran-du-2026-06-26-23-23-35.png",
+              "localFilename": "Capture-d-ecran-du-2026-06-26-23-23-35.png",
+              "downloaded": true
             }
           ],
           "replacementAsked": "Non, je souhaite le conserver"
