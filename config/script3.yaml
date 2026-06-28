@@ -1,0 +1,55 @@
+# ./config/script3.yaml
+# Configuration centrale pour script3_excelExport.py
+
+# Chemins
+input_path: "./data/parsed/submission_aOE6rXE.json"
+output_dir: "./data/excelExport"
+output_filename: ""  # si vide, généré depuis le nom du JSON
+
+# Index sheet
+# index_sheet: true -> crée une feuille "Index" listant toutes les tables créées
+index_sheet: true
+index_sheet_name: "Index"
+
+# Format global et règles d'affichage
+format:
+  # Police sans-serif (choisir une police largement disponible sur Windows/macOS/Linux)
+  # Exemples sûrs: "Arial", "DejaVu Sans", "Liberation Sans"
+  font_name: "DejaVu Sans"
+  font_size: 10
+
+  # Titre de tableau
+  title_bold: true
+  title_font_size: 11
+  title_font_color: "#000000"
+  title_fill_color: "#b5bd00"
+
+  # Mettre le texte des attributs en gras
+  attributes_bold: true
+
+  # Couleur du texte des cellules (hex)
+  text_color: "#000000"
+
+  # Couleur de fond des lignes de données (hex, valeur par défaut)
+  row_fill_color: "#efefef"
+
+  # Afficher ou non la ligne d'en-tête (Attribut / Valeur)
+  show_headers: true   # true = écrire la ligne d'en-tête, false = ne pas l'écrire
+
+  # Afficher ou masquer la grille Excel
+  show_gridlines: true  # true = afficher la grille, false = masquer la grille
+
+  # Séparation entre tableaux (nombre de lignes vides)
+  table_separation_rows: 2
+
+  # Bordures (appliquées horizontalement uniquement)
+  border_style: "thin"    # thin|medium|dashed|dotted|thick
+  # border_color accepts a value WITH the leading '#'
+  border_color: "#b5bd00"
+
+  # Colonnes
+  column_padding: 2
+  min_column_width: 8
+
+# Limites Excel
+sheet_name_max_length: 31

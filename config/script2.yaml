@@ -89,6 +89,9 @@ downloads:
     - "image/png"
     - "image/jpeg"
     - "application/pdf"
+    - "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    - "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+    - "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
   max_size_bytes: 52428800         # 50 MB par fichier (0 pour illimité)
   timeout_seconds: 30
   keep_original_url: true
